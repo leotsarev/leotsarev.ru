@@ -15,7 +15,7 @@
     1. Dune Board Game [ссылка](https://www.gf9games.com/dune/)
     1. Самая сложная настольная игра в мире [The Campaign for North Africa](https://boardgamegeek.com/boardgame/4815/campaign-north-africa)
     1. Дополнение к Сумеркам Империи (лучше на русском)  [ссылка](https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/products/prophecy-kings/)
-    1. Дополнение к игре Война Кольца: Владыки Средиземья (на русском) [ссылка](https://gaga.ru/game/voina-kolca-vladiki-sredizemja/)
+    1. Дополнение к игре Война Кольца: Воины Средиземья (на русском) [ссылка](https://gaga.ru/game/voina-kolca-voiny-sredizemja/)
 1. Футболка XXXL со смешной надписью, как-то:
     1. «Кто такой Джон Голт?»
     1. «Движение за восстановление бассейна „Москва“»
@@ -28,7 +28,6 @@
     1. Pro .NET Performance Sasha Goldstein
     1. Design Patterns in .NET Reusable Approaches in C# and F# for Object-Oriented Software Design  Nesteruk, Dmitri 
     1. Domain Modeling Made Functional Scot Wlaschin
-    1. ASP.NET Core in Action, Second Edition  Andrew Lock
 1. Гирлянды для внешнего использования
 
 ## Дополнительная часть вишлиста
