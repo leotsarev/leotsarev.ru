@@ -25,6 +25,7 @@ hyde_links = [
     {url = "/personal", name = "Личное"},
     {url = "/personal/wishlist", name = " - Вишлист"},
     {url = "/personal/korvet", name = " - Корвет"},
+    {url = "/personal/grandfather", name = " - Дед"},
     {url = "/archive", name = "Архив"},
 ]
 
