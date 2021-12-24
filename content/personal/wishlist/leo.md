@@ -5,7 +5,7 @@
 По всем темам, касающимся подарков, можно писать [моей жене](mailto:atana@bastilia.ru)
 
 1. в 100500 раз лучше приехать без подарка, чем не приехать.
-2. <s>если все пункты вишлиста показались сложными, можно купить бутылку крепкого алкоголя (бурбон, виски, текила, ром).</s>
+2. если все пункты вишлиста показались сложными, можно купить бутылку крепкого алкоголя (бурбон, виски, текила, ром).
 2. покупать что-то кроме вишлиста можно только если вы 100% уверены, что мне зайдет. Проще так.
 
 ## Основная часть вишлиста
@@ -14,8 +14,6 @@
     1. Миниатюры к Saganami Island Tactical Simulator [ссылка](https://www.nobleknight.com/Products/Honorverse---Saganami-Island-Tactical-Simulator---Miniatures-1to12000?PageNumber=2&ProductLineId=#pf)
     1. Dune Board Game [ссылка](https://www.gf9games.com/dune/)
     1. Самая сложная настольная игра в мире [The Campaign for North Africa](https://boardgamegeek.com/boardgame/4815/campaign-north-africa)
-    1. Дополнение к Сумеркам Империи (лучше на русском)  [ссылка](https://www.fantasyflightgames.com/en/products/twilight-imperium-fourth-edition/products/prophecy-kings/)
-    1. Дополнение к игре Война Кольца: Воины Средиземья (на русском) [ссылка](https://gaga.ru/game/voina-kolca-voiny-sredizemja/)
 1. Футболка XXXL со смешной надписью, как-то:
     1. «Кто такой Джон Голт?»
     1. «Движение за восстановление бассейна „Москва“»
@@ -27,7 +25,6 @@
 1. Книги (только указанные, только на английском)
     1. Pro .NET Performance Sasha Goldstein
     1. Design Patterns in .NET Reusable Approaches in C# and F# for Object-Oriented Software Design  Nesteruk, Dmitri 
-    1. Domain Modeling Made Functional Scot Wlaschin
 1. Гирлянды для внешнего использования
 
 ## Дополнительная часть вишлиста
@@ -42,4 +39,4 @@
     1. Любая настолка по вашему выбору (ТОЛЬКО для реальных настолкозадротов, например настолко-петергофцев. Не надо дарить настолку, если вы не уверены, она может не понравится или у меня она уже может быть)
 1. Толстовка с капюшоном, карманом спереди и надписей на спине «мастерская группа»
 1. Книги (только указанные, только на английском)
-    1. Pro .NET Benchmarking Andrey Akinshin ‏
+    1. Pro .NET Benchmarking Andrey Akinshin 
