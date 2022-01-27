@@ -14,6 +14,7 @@
     1. Миниатюры к Saganami Island Tactical Simulator [ссылка](https://www.nobleknight.com/Products/Honorverse---Saganami-Island-Tactical-Simulator---Miniatures-1to12000?PageNumber=2&ProductLineId=#pf)
     1. Dune Board Game [ссылка](https://www.gf9games.com/dune/)
     1. Самая сложная настольная игра в мире [The Campaign for North Africa](https://boardgamegeek.com/boardgame/4815/campaign-north-africa)
+    1. «Инициатива» [ссылка](https://hobbygames.ru/iniciativa)
 1. Футболка XXXL со смешной надписью, как-то:
     1. «Кто такой Джон Голт?»
     1. «Движение за восстановление бассейна „Москва“»
@@ -24,7 +25,6 @@
     1. Ваш вариант...
 1. Книги (только указанные, только на английском)
     1. Pro .NET Performance Sasha Goldstein
-    1. Design Patterns in .NET Reusable Approaches in C# and F# for Object-Oriented Software Design  Nesteruk, Dmitri 
 1. Гирлянды для внешнего использования
 
 ## Дополнительная часть вишлиста
