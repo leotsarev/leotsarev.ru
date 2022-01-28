@@ -15,6 +15,7 @@
     1. Dune Board Game [ссылка](https://www.gf9games.com/dune/)
     1. Самая сложная настольная игра в мире [The Campaign for North Africa](https://boardgamegeek.com/boardgame/4815/campaign-north-africa)
     1. «Инициатива» [ссылка](https://hobbygames.ru/iniciativa)
+    1. «Мышиная стража» [ссылка](https://www.crowdgames.ru/collection/shop/product/myshinaya-strazha)
 1. Футболка XXXL со смешной надписью, как-то:
     1. «Кто такой Джон Голт?»
     1. «Движение за восстановление бассейна „Москва“»
