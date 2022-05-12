@@ -10,6 +10,7 @@
 
 ## Основная часть вишлиста
 1. Принять участие в организации ДР (привезти/увезти что-то, съездить за покупками, жарить шашлык на месте etc)
+1. Пожертвование в https://тыл-22.рф/ или https://ob-help.ru/ любой суммы
 1. Новый мангал для дачи моей мамы (на две решетки)
 1. Настолки
     1. Миниатюры к Saganami Island Tactical Simulator [ссылка](https://www.nobleknight.com/Products/Honorverse---Saganami-Island-Tactical-Simulator---Miniatures-1to12000?PageNumber=2&ProductLineId=#pf)
