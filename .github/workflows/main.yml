@@ -1,18 +1,32 @@
-# On every push this script is executed
-on: push
-name: Build and deploy GH Pages
+name: Publish site to gh-pages
+on:
+  push:
+    branches:
+      - master 
+  pull_request:
+  
 jobs:
   build:
-    name: Deploy
     runs-on: ubuntu-latest
+    if: github.ref != 'refs/heads/master'
     steps:
-      # Checkout
-      - uses: actions/checkout@v2
-      # Build & deploy
-      - name: Deploy to gh-pages branch
-        uses: shalzz/zola-deploy-action@v0.13.0
+      - name: Checkout main
+        uses: actions/checkout@v3.0.2
+      - name: Build only 
+        uses: shalzz/zola-deploy-action@master
         env:
-          # Target branch
+          BUILD_ONLY: true
+          BUILD_FLAGS: --drafts
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/master'
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v3.0.2
+      - name: Build and deploy
+        uses: shalzz/zola-deploy-action@master
+        env:
           PAGES_BRANCH: gh-pages
-          # Provide personal access token
-          TOKEN: ${{ secrets.TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
