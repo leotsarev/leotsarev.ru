@@ -10,6 +10,7 @@
  - [Github](https://github.com/leotsarev/)
  - [Stackoverflow](https://stackoverflow.com/users/story/408666)
  - [Хабр](https://habr.com/ru/users/leotsarev/posts/)
+ - [Телеграм канал](https://t.me/ex_coder_tsarev)
 
 ## [Статьи](articles)
 Сюда заботливо перенесены мои осмысленные статьи по программированию.
