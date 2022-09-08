@@ -1,3 +1,6 @@
+{% block assign_vars %}
+    {% set leo_title = config.title %}
+{% endblock assign_vars %}
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -7,13 +10,15 @@
       <!-- Enable responsiveness on mobile devices-->
       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-      <title>{% block title %}{{ config.title }}{% endblock title %}</title>
+      <title>{% block title %} {{ leo_title }} {% endblock title %}</title>
 
       <!-- CSS -->
       <link rel="stylesheet" href="{{ get_url(path="print.css", trailing_slash=false) }}" media="print">
       <link rel="stylesheet" href="{{ get_url(path="poole.css", trailing_slash=false) }}">
       <link rel="stylesheet" href="{{ get_url(path="hyde.css", trailing_slash=false) }}">
       <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+
+      <meta property="og:title" content="{{ leo_title }}"/>
 
       {% if config.generate_rss %}
         <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ get_url(path="rss.xml", trailing_slash=false) }}">

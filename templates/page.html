@@ -1,5 +1,9 @@
 {% extends "index.html" %}
 
+{% block assign_vars %}
+{% set leo_title = config.title ~ " / " ~ page.title %}
+{% endblock assign_vars %}
+
 {% block content %}
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
@@ -9,4 +13,8 @@
   {{ page.content | safe }}
 </div>
 {% endblock content %}
+
+{% block extra_head %}
+  <meta property="og:type" content="article" />
+{% endblock extra_head %}
 
