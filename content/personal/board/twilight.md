@@ -37,10 +37,18 @@
 Летопись
 ---
 
+### 4 декабря
 
 ### 17 сентября 
 
-
+Токкет - Синий - Sardakk N'orr
+@leotsarev - Красный - The Mahact Gene-Sorcerers
+@Werrus - Розовый - The Mentak Coalition
+@Germesina - Черный - The Titans of Ul (победитель)
+Руслан - Оранжевый - The Naaz-Rokha Alliance
+@GrayFox23b - Фиолетовый - The Universities of Jol-Nar
+@Korran_Horn - Желтый - The Vuil'Raith Cabal
+@blakotya - Зеленый -  Ghosts of Creuss
 
 ### 27 февраля
 
