@@ -42,14 +42,14 @@
 
 ### 17 сентября 
 
-Токкет - Синий - Sardakk N'orr
-@leotsarev - Красный - The Mahact Gene-Sorcerers
-@Werrus - Розовый - The Mentak Coalition
-@Germesina - Черный - The Titans of Ul (победитель)
-Руслан - Оранжевый - The Naaz-Rokha Alliance
-@GrayFox23b - Фиолетовый - The Universities of Jol-Nar
-@Korran_Horn - Желтый - The Vuil'Raith Cabal
-@blakotya - Зеленый -  Ghosts of Creuss
+Токкет - Синий - Sardakk N'orr <br/>
+@leotsarev - Красный - The Mahact Gene-Sorcerers <br/>
+@Werrus - Розовый - The Mentak Coalition <br/>
+@Germesina - Черный - The Titans of Ul (победитель) <br/>
+Руслан - Оранжевый - The Naaz-Rokha Alliance <br/>
+@GrayFox23b - Фиолетовый - The Universities of Jol-Nar <br/>
+@Korran_Horn - Желтый - The Vuil'Raith Cabal <br/>
+@blakotya - Зеленый -  Ghosts of Creuss <br/>
 
 ### 27 февраля
 
