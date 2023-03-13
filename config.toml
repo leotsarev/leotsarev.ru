@@ -23,6 +23,7 @@ hyde_links = [
     {url = "/personal/korvet", name = " - Корвет"},
     {url = "/personal/grandfather", name = " - Дед"},
     {url = "/archive", name = "Архив"},
+    {url = "/misc", name = "Разное"},
 ]
 
 hyde_theme = "theme-base-08"
