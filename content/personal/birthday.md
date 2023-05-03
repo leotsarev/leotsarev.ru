@@ -13,6 +13,7 @@ description="Кулинарный конкурс"
 - [ОФИЦИАЛЬНЫЙ ЧАТ ДРа](https://t.me/+XoOp4XGc2z8wMTgy)
 - [Добиралово](https://leotsarev.ru/personal/korvet/)
 - [Вишлист](https://leotsarev.ru/personal/wishlist/leo/)
+- [Чат, где обсуждают подарки](https://t.me/+ZfMzbkxf5tljMTUy)
 
 План ЦаревоДРа-2023
 ---
