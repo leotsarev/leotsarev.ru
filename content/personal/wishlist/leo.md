@@ -13,7 +13,7 @@
 1. Пожертвовать денег от моего имени на помощь русской армии на любой сбор Саввы Федосеева https://t.me/russia_and_anvil (любая сумма годится)
 1. Для тех, кому этически неприемлим предыдущий пункт, можно пожертвовать гражданским на какой-то гуманитарный проект Общества.Будущее https://ob-help.ru/  https://t.me/ob_community
 1. Костровая чаша (согласовать с моей женой)
-1. Настолки
+1. Настольные игры (первого приоритета)
     1. Миниатюры к Saganami Island Tactical Simulator [ссылка](https://www.nobleknight.com/Products/Honorverse---Saganami-Island-Tactical-Simulator---Miniatures-1to12000?PageNumber=2&ProductLineId=#pf)
     1. Dune Board Game [ссылка](https://www.gf9games.com/dune/)
     1. Самая сложная настольная игра в мире [The Campaign for North Africa](https://boardgamegeek.com/boardgame/4815/campaign-north-africa)
@@ -23,6 +23,9 @@
     1. ISS Vanguard
 1. Рулбуки (физические)
     1. Twilight Imperium: Embers of the Imperium 
+    1. Genesys Extended Players' Guide (желательно на русском)
+    1. Genesys Realms of Terrinoth
+    1. Genesys Game master's Screen
 1. Футболка XXXL со смешной надписью, как-то:
     1. «Кто такой Джон Голт?»
     1. «Валинор останется русским»
@@ -37,8 +40,6 @@
 1. USB-веб камера нормального качества
 1. Сабля для сабража (знают Мила и Дракула)
 1. Яндекс Станция Макс с ZigBee
-
-## Дополнительная часть вишлиста
 1. Настольные игры (по возможности на английском)
     1. Relic с дополнениями
     1. Acquire
@@ -47,5 +48,6 @@
     1. Cosmic Encounter 
     1. DOOM: The Board Game (редакция 2016 года, а не та, которая у Вера)
     1. Civilization: A New Dawn 
+    1. Настолки, в которые можно играть 2 на 2 или 3 на 3.
     1. Любая настолка по вашему выбору (ТОЛЬКО для реальных настолкозадротов. Если вы играли со мной в настолки менее 20 раз или не знаете, какие настолки у меня есть, то это пункт не для вас)
 
