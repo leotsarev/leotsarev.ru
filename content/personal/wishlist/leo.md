@@ -21,6 +21,8 @@
     1. Frosthaven 
     1. Дюна. Империя c дополнением
     1. ISS Vanguard
+    1. High Frontier 4 All
+    1. Conflict of Heroes: Storms of Steel – Kursk 1943 (Third Edition)
 1. Рулбуки (физические)
     1. Twilight Imperium: Embers of the Imperium 
     1. Genesys Extended Players' Guide (желательно на русском)
