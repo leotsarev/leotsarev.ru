@@ -12,14 +12,5 @@
  - [Хабр](https://habr.com/ru/users/leotsarev/posts/)
  - [Телеграм канал](https://t.me/ex_coder_tsarev)
 
-## [Статьи](articles)
+# [Статьи](articles)
 Сюда заботливо перенесены мои осмысленные статьи по программированию.
-
-## Актуальные хобби-проекты
-### [Joinrpg.ru](/larp/joinrpg)
-База заявок на полевые ролевые игры
- - [Сайт](https://joinrpg.ru)
- - [Репозиторий](https://github.com/joinrpg/joinrpg-net)
-
-### [Code.rpg.ru](http://code.rpg.ru)
-Сборник всякого ролевого софта (не только и не столько моего).
