@@ -12,11 +12,12 @@
 1. Принять участие в организации ДР (привезти/увезти что-то, съездить за покупками, жарить шашлык на месте etc)
 1. Пожертвовать денег от моего имени на помощь русской армии на любой сбор Саввы Федосеева https://t.me/russia_and_anvil (любая сумма годится)
 1. Для тех, кому этически неприемлим предыдущий пункт, можно пожертвовать гражданским на какой-то гуманитарный проект Общества.Будущее https://ob-help.ru/  https://t.me/ob_community
+1. Ключики типа YubiKey
 1. Настольные игры (первого приоритета)
     1. Миниатюры к Saganami Island Tactical Simulator [ссылка](https://www.nobleknight.com/Products/Honorverse---Saganami-Island-Tactical-Simulator---Miniatures-1to12000?PageNumber=2&ProductLineId=#pf)
     1. Dune Board Game [ссылка](https://www.gf9games.com/dune/)
     1. Самая сложная настольная игра в мире [The Campaign for North Africa](https://boardgamegeek.com/boardgame/4815/campaign-north-africa)
-    1. «Диллема Королевы» (не путать с Диллемой Короля)
+    1. «Дилемма Королевы» (не путать с Дилеммой Короля)
     1. Frosthaven 
     1. Дюна. Империя c дополнением
     1. ISS Vanguard
