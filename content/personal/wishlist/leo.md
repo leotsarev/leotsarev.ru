@@ -43,6 +43,7 @@
 1. Maker's mark
 1. Jack Daniel's (обычный)
 1. Gentleman Jack
+1. Tamnavulin 
 
 ## НРИ
 
