@@ -77,6 +77,7 @@
 1. Книги (только указанные)
     1. Pro .NET Performance Sasha Goldstein
     1. «Книга Z»
+    1. Team Topologies: Organizing Business and Technology Teams for Fast Flow
 1. Гирлянды для внешнего использования (согласовать с моей женой)
 1. Сабля для сабража (знают Мила и Дракула)
 1. Чугунный профиль для гриля [пример](https://www.ozon.ru/product/kruglyy-chugunnyy-plato-protiven-plancha-gril-658531339/)
