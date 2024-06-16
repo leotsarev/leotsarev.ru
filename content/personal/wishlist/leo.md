@@ -15,13 +15,12 @@
 
 ## Настольные игры 
 
-1. Сумка для настольных игр, такая чтобы влезали Сумерки Империи
+<!-- вероятно куплена подходящая 1. Сумка для настольных игр, такая чтобы влезали Сумерки Империи -->
 1. Миниатюры к Saganami Island Tactical Simulator [ссылка](https://www.nobleknight.com/Products/Honorverse---Saganami-Island-Tactical-Simulator---Miniatures-1to12000?PageNumber=2&ProductLineId=#pf)
 1. Dune Board Game [ссылка](https://www.gf9games.com/dune/)
 1. Самая сложная настольная игра в мире [The Campaign for North Africa](https://boardgamegeek.com/boardgame/4815/campaign-north-africa)
 1. «Дилемма Королевы» (не путать с Дилеммой Короля)
 1. Frosthaven 
-1. Дюна. Империя c дополнением
 1. ISS Vanguard
 1. High Frontier 4 All
 1. Conflict of Heroes: Storms of Steel – Kursk 1943 (Third Edition)
@@ -53,12 +52,11 @@
     1. Genesys Realms of Terrinoth
     1. Genesys Game master's Screen
     1. DnD 5ой редакции (ничего нет) 
-    1. Pathfinder 2ая редакция (кроме базовой книги)
+    1. Pathfinder 2ая редакция (кроме базовой книги и монстер-мануал)
 
 ## ИТ
 
 1. Ключики типа YubiKey
-1. USB-веб камера нормального качества
 1. Flipper Zero
 1. Автообновлялка показаний счетчиков https://waterius.ru/
 1. Сетевой лазерный принтер для дома. «Выбрать и настроить, а оплатишь ты сам» — тоже пойдет за подарок.
@@ -76,11 +74,8 @@
     1. Ваш вариант...
 1. Книги (только указанные)
     1. Pro .NET Performance Sasha Goldstein
-    1. «Книга Z»
     1. Team Topologies: Organizing Business and Technology Teams for Fast Flow
 1. Гирлянды для внешнего использования (согласовать с моей женой)
 1. Сабля для сабража (знают Мила и Дракула)
 1. Чугунный профиль для гриля [пример](https://www.ozon.ru/product/kruglyy-chugunnyy-plato-protiven-plancha-gril-658531339/)
 1. Дополнения в Steam в подарок для Stellaris и Crusader Kings 3 (посмотреть каких нет и их подарить через Стим)
-
-
