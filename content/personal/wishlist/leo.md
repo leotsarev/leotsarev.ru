@@ -43,6 +43,7 @@
 1. Jack Daniel's (обычный)
 1. Gentleman Jack
 1. Tamnavulin 
+1. Buffalo trace
 
 ## НРИ
 
