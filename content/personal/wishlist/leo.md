@@ -15,7 +15,6 @@
 
 ## Настольные игры 
 
-<!-- вероятно куплена подходящая 1. Сумка для настольных игр, такая чтобы влезали Сумерки Империи -->
 1. Миниатюры к Saganami Island Tactical Simulator [ссылка](https://www.nobleknight.com/Products/Honorverse---Saganami-Island-Tactical-Simulator---Miniatures-1to12000?PageNumber=2&ProductLineId=#pf)
 1. Dune Board Game [ссылка](https://www.gf9games.com/dune/)
 1. Самая сложная настольная игра в мире [The Campaign for North Africa](https://boardgamegeek.com/boardgame/4815/campaign-north-africa)
@@ -36,7 +35,7 @@
 
 
 ## Виски
-Тут просто я сохраняю виски, которое мне понравилось. Оно здесь даже больше, для себя
+Тут просто я сохраняю виски, которое мне понравилось. Это намек. Ну и чтобы не забыть. 
 1. Talisker Single Malt 10
 1. The Singleton 
 1. Maker's mark
@@ -44,6 +43,7 @@
 1. Gentleman Jack
 1. Tamnavulin 
 1. Buffalo trace
+1. Ardbeg
 
 ## НРИ
 
@@ -53,7 +53,7 @@
     1. Genesys Realms of Terrinoth
     1. Genesys Game master's Screen
     1. DnD 5ой редакции (ничего нет) 
-    1. Pathfinder 2ая редакция (кроме базовой книги и монстер-мануал)
+    1. Pathfinder 2ая редакция (есть базовая книга,  монстер-мануал, заказана книга ведущего)
 
 ## ИТ
 
@@ -80,3 +80,5 @@
 1. Сабля для сабража (знают Мила и Дракула)
 1. Чугунный профиль для гриля [пример](https://www.ozon.ru/product/kruglyy-chugunnyy-plato-protiven-plancha-gril-658531339/)
 1. Дополнения в Steam в подарок для Stellaris и Crusader Kings 3 (посмотреть каких нет и их подарить через Стим)
+1. Коврик туристический https://ozon.ru/t/QYlqmYg
+1. Приехать наточить дома все ножи
