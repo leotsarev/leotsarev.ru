@@ -29,21 +29,22 @@
 1. Last Banquet
 1. DOOM: The Board Game (редакция 2016 года, а не та, которая у Вера)
 1. Civilization: A New Dawn 
-1. [Axis Empires: Ultimate Edition ](https://boardgamegeek.com/boardgame/291434/axis-empires-ultimate-edition)
+1. [Axis Empires: Ultimate Edition](https://boardgamegeek.com/boardgame/291434/axis-empires-ultimate-edition)
 1. Настолки, в которые можно играть 2 на 2 или 3 на 3 (для реальных настолкозадротов. Если вы играли со мной в настолки менее 20 раз или не знаете, какие настолки у меня есть, то это пункт не для вас )
 1. Любая настолка по вашему выбору (ТОЛЬКО для реальных настолкозадротов)
 
 
 ## Виски
 Тут просто я сохраняю виски, которое мне понравилось. Это намек. Ну и чтобы не забыть. 
-1. Talisker Single Malt 10
-1. The Singleton 
+1. Talisker Single Malt 10, Talisker Storm, Talisker Dark Storm
+1. The Singleton 12, 15
 1. Maker's mark
 1. Jack Daniel's (обычный)
 1. Gentleman Jack
 1. Tamnavulin 
 1. Buffalo trace
 1. Ardbeg
+1. 
 
 ## НРИ
 
