@@ -44,6 +44,7 @@
 1. Four roses single barrel
 1. Jack Daniels Bold&Spicy
 1. Elijah Craig Small Batch
+1. Bowmore 10 и Bowmore 10 dark intense
 1. На худой конец обычный Jack Daniel's
 
 ## НРИ
