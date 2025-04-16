@@ -45,6 +45,7 @@
 1. Jack Daniels Bold&Spicy
 1. Elijah Craig Small Batch
 1. Bowmore 10 и Bowmore 10 dark intense
+1. Woodland reserve
 1. На худой конец обычный Jack Daniel's
 
 ## НРИ
@@ -85,3 +86,4 @@
 1. Чугунный профиль для гриля [пример](https://www.ozon.ru/product/kruglyy-chugunnyy-plato-protiven-plancha-gril-658531339/)
 1. Дополнения в Steam в подарок для Stellaris и Crusader Kings 3 (посмотреть каких нет и их подарить через Стим)
 1. Приехать наточить дома все ножи
+1. The Atlas of Tolkien's Middle-earth
