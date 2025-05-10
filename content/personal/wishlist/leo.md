@@ -14,20 +14,19 @@
 
 ## Настольные игры 
 
-1. Dune Board Game [ссылка](https://www.gf9games.com/dune/)
 1. Самая сложная настольная игра в мире [The Campaign for North Africa](https://boardgamegeek.com/boardgame/4815/campaign-north-africa)
 1. «Дилемма Королевы» (не путать с Дилеммой Короля)
+1. Conflict of Heroes: Storms of Steel – Kursk 1943 (Third Edition)
+1. [Axis Empires: Ultimate Edition](https://boardgamegeek.com/boardgame/291434/axis-empires-ultimate-edition)
+1. Last Banquet
+1. High Frontier 4 All
 1. Frosthaven 
 1. ISS Vanguard
-1. High Frontier 4 All
-1. Conflict of Heroes: Storms of Steel – Kursk 1943 (Third Edition)
 1. Relic с дополнениями
-1. Acquire
 1. Дополнение Warrior Knights: Crown & Glory (строго английский)
-1. Last Banquet
+1. Dune Board Game [ссылка](https://www.gf9games.com/dune/)
 1. DOOM: The Board Game (редакция 2016 года, а не та, которая у Вера)
 1. Civilization: A New Dawn 
-1. [Axis Empires: Ultimate Edition](https://boardgamegeek.com/boardgame/291434/axis-empires-ultimate-edition)
 1. Настолки, в которые можно играть 2 на 2 или 3 на 3 (для реальных настолкозадротов. Если вы играли со мной в настолки менее 20 раз или не знаете, какие настолки у меня есть, то это пункт не для вас )
 1. Любая настолка по вашему выбору (ТОЛЬКО для реальных настолкозадротов)
 
