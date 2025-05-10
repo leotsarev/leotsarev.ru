@@ -34,15 +34,15 @@
 ## Виски
 Тут просто я сохраняю виски, которое мне понравилось. Это намек. Ну и чтобы не забыть. 
 1. Talisker Single Malt 10, Talisker 11,  Talisker Storm, Talisker Dark Storm, Talisker The Distiller Edition и вообще какие-то необычные Talisker
+1. Ardbeg
+1. Jack Daniels Bold&Spicy
+1. Elijah Craig Small Batch
 1. The Singleton 12, 15
 1. Maker's mark (разные вариации)
 1. Gentleman Jack
 1. Tamnavulin 
 1. Buffalo trace
-1. Ardbeg
 1. Four roses single barrel
-1. Jack Daniels Bold&Spicy
-1. Elijah Craig Small Batch
 1. Bowmore 10 и Bowmore 10 dark intense
 1. Woodland reserve
 1. На худой конец обычный Jack Daniel's
