@@ -87,6 +87,6 @@
     1. Pro .NET Performance Sasha Goldstein
     1. Team Topologies: Organizing Business and Technology Teams for Fast Flow
 1. Гирлянды для внешнего использования (согласовать с моей женой)
-1. Чугунный профиль для гриля [пример](https://www.ozon.ru/product/kruglyy-chugunnyy-plato-protiven-plancha-gril-658531339/)
+1. Ляган (блюдо для подачи плова)
 1. Дополнения в Steam в подарок для Stellaris и Crusader Kings 3 (посмотреть каких нет и их подарить через Стим)
 1. Приехать наточить дома все ножи
