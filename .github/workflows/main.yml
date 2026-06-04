@@ -1,32 +1,52 @@
-name: Publish site to gh-pages
+name: Publish site to S3
 on:
   push:
     branches:
       - master 
   pull_request:
-  
+
+env:
+  S3_URL: s3://leotsarev.ru
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    if: github.ref != 'refs/heads/master'
+    if: github.ref != 'refs/heads/main'
     steps:
       - name: Checkout main
-        uses: actions/checkout@v6
+        uses: actions/checkout@v6.0.2
       - name: Build only 
-        uses: shalzz/zola-deploy-action@v0.21.0
+        uses: shalzz/zola-deploy-action@v0.22.1
         env:
           BUILD_ONLY: true
-          BUILD_FLAGS: --drafts
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Create artifacts
+        uses: actions/upload-artifact@v6
+        with:
+          name: site
+          path: public
           
-  build_and_deploy:
+  deploy:
     runs-on: ubuntu-latest
+    needs: build
     if: github.ref == 'refs/heads/master'
     steps:
-      - name: Checkout main
-        uses: actions/checkout@v6
-      - name: Build and deploy
-        uses: shalzz/zola-deploy-action@v0.21.0
-        env:
-          PAGES_BRANCH: gh-pages
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Download a single artifact
+        uses: actions/download-artifact@v7
+        with:
+          name: site
+          path: public
+      - name: Set up S3cmd cli tool
+        uses: s3-actions/s3cmd@v2.1.0
+        with:
+            provider: yandex
+            region: ru-central1
+            access_key: ${{ secrets.SYNC_ACCESS_ID }}
+            secret_key: ${{ secrets.SYNC_ACCESS_SECRET }}
+      - name: sync to s3
+        run: |
+          cd public
+          s3cmd sync --recursive --exclude "*.css" --exclude "*.js" * ${{ env.S3_URL }}
+          s3cmd sync --recursive --include "*.css" * --mime-type="text/css" ${{ env.S3_URL }}
+          s3cmd sync --recursive --include "*.js" * --mime-type="application/javascript" ${{ env.S3_URL }}
+
+    
