@@ -55,7 +55,6 @@
 
 1. Книги правил (физические)
     1. Twilight Imperium: Embers of the Imperium 
-    1. Genesys Extended Players' Guide (желательно на русском)
     1. Genesys Realms of Terrinoth
     1. Genesys Game master's Screen
     1. DnD 5ой редакции (ничего нет) 
